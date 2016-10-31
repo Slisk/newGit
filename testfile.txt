@@ -6,6 +6,7 @@ Line 5 - I added it from master branch
 Line 5 - I added this new line from feature branch 
 Line 6 - Added this in my feature branch
 Line 7 - feet Hello
+Line 8 - hand branch
 ==============
 line 1 
 >>>>>>>>>> feature
