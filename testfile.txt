@@ -1,3 +1,4 @@
+<<<<<<<< HEAD
 neli 1 
 Line 3
 Line 4 - I added it from feature branch 
@@ -5,3 +6,6 @@ Line 5 - I added it from master branch
 Line 5 - I added this new line from feature branch 
 Line 6 - Added this in my feature branch
 Line 7 - feet Hello
+==============
+line 1 
+>>>>>>>>>> feature
